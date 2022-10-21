@@ -14,7 +14,7 @@ module.exports = {
     },
   ],
   extends: [
-    'plugin:vue/vue3-recommended',
+    'plugin:vue/recommended',
     '@unonu/eslint-config-ts',
   ],
   rules: {

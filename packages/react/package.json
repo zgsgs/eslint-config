@@ -1,6 +1,6 @@
 {
-  "name": "@zgsgs/eslint-config-react",
-  "version": "0.0.7",
+  "name": "@unonu/eslint-config-react",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@zgsgs/eslint-config-ts": "workspace:*",
+    "@unonu/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.29.4"
   },
   "devDependencies": {

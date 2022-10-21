@@ -1,6 +1,6 @@
 {
-  "name": "@zgsgs/eslint-config-basic",
-  "version": "0.0.7",
+  "name": "@unonu/eslint-config-basic",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -24,8 +24,8 @@
     "eslint-plugin-n": "^15.1.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-unicorn": "^42.0.0",
+    "eslint-plugin-unonu": "workspace:*",
     "eslint-plugin-yml": "^0.15.0",
-    "eslint-plugin-zgsgs": "workspace:*",
     "jsonc-eslint-parser": "^2.1.0",
     "yaml-eslint-parser": "^0.5.0"
   },

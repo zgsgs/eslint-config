@@ -93,5 +93,8 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
-  "typescript.updateImportsOnFileMove.enabled": "always"
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[properties]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
 }

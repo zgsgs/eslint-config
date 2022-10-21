@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/zgsgs/eslint-config">
-    <h1>@zgsgs/eslint-config</h1>
+    <h1>@unonu/eslint-config</h1>
   </a>
 
   <p>仅使用 eslint 管理代码规范</p>
@@ -11,7 +11,7 @@
 
 ---
 
-[![npm](https://img.shields.io/npm/v/@zgsgs/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@zgsgs/eslint-config)
+[![npm](https://img.shields.io/npm/v/@unonu/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@unonu/eslint-config)
 
 ## 功能
 
@@ -27,14 +27,14 @@
 安装
 
 ```bash
-pnpm add -D eslint @zgsgs/eslint-config
+pnpm add -D eslint @unonu/eslint-config
 ```
 
 ### 配置 `.eslintrc`
 
 ```json
 {
-  "extends": "@zgsgs"
+  "extends": "@unonu"
 }
 ```
 
@@ -44,7 +44,7 @@ pnpm add -D eslint @zgsgs/eslint-config
 // package.json
 {
   "eslintConfig": {
-    "extends": "@zgsgs"
+    "extends": "@unonu"
   }
 }
 ```
@@ -125,10 +125,10 @@ pnpm add -D eslint @zgsgs/eslint-config
 
 ## 也可以查看
 
-- [zgsgs/vscode-settings](https://github.com/zgsgs/vscode-settings) - 我的 VS Code 设置
-- [zgsgs/eslint-config](https://github.com/zgsgs/eslint-config) - 我的 ESLint 配置
-- [zgsgs/ts-starter](https://github.com/zgsgs/ts-starter) - 我的 TS 库的启动模板
-- [zgsgs/vitesse](https://github.com/zgsgs/vitesse) - 我的 Vue & Vite 应用的启动模板
+- [unonu/vscode-settings](https://github.com/zgsgs/vscode-settings) - 我的 VS Code 设置
+- [unonu/eslint-config](https://github.com/zgsgs/eslint-config) - 我的 ESLint 配置
+- [unonu/ts-starter](https://github.com/zgsgs/ts-starter) - 我的 TS 库的启动模板
+- [unonu/vitesse](https://github.com/zgsgs/vitesse) - 我的 Vue & Vite 应用的启动模板
 
 ## 许可证
 

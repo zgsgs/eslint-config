@@ -1,6 +1,6 @@
 {
-  "name": "@zgsgs/eslint-config",
-  "version": "0.0.7",
+  "name": "@unonu/eslint-config",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -15,8 +15,8 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
-    "@zgsgs/eslint-config-react": "workspace:*",
-    "@zgsgs/eslint-config-vue": "workspace:*",
+    "@unonu/eslint-config-react": "workspace:*",
+    "@unonu/eslint-config-vue": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.26.0",

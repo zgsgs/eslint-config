@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/zgsgs/eslint-config">
-    <h1>@zgsgs/eslint-config</h1>
+    <h1>@unonu/eslint-config</h1>
   </a>
 
   <p>Manage code specification with eslint only</p>
@@ -11,7 +11,7 @@
 
 ---
 
-[![npm](https://img.shields.io/npm/v/@zgsgs/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@zgsgs/eslint-config)
+[![npm](https://img.shields.io/npm/v/@unonu/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@unonu/eslint-config)
 
 ## Feature
 
@@ -27,14 +27,14 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @zgsgs/eslint-config
+pnpm add -D eslint @unonu/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@zgsgs"
+  "extends": "@unonu"
 }
 ```
 
@@ -44,7 +44,7 @@ OR
 // package.json
 {
   "eslintConfig": {
-    "extends": "@zgsgs"
+    "extends": "@unonu"
   }
 }
 ```
@@ -125,10 +125,10 @@ Copy the `.github` directory go to Your Project Root Directory
 
 ## Check Also
 
-- [zgsgs/vscode-settings](https://github.com/zgsgs/vscode-settings) - My VS Code settings
-- [zgsgs/eslint-config](https://github.com/zgsgs/eslint-config) - My ESLint config
-- [zgsgs/ts-starter](https://github.com/zgsgs/ts-starter) - My starter template for TypeScript library
-- [zgsgs/vitesse](https://github.com/zgsgs/vitesse) - My starter template for Vue & Vite app
+- [unonu/vscode-settings](https://github.com/zgsgs/vscode-settings) - My VS Code settings
+- [unonu/eslint-config](https://github.com/zgsgs/eslint-config) - My ESLint config
+- [unonu/ts-starter](https://github.com/zgsgs/ts-starter) - My starter template for TypeScript library
+- [unonu/vitesse](https://github.com/zgsgs/vitesse) - My starter template for Vue & Vite app
 
 ## License
 

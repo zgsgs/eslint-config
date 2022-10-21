@@ -1,6 +1,6 @@
 {
-  "extends": "@zgsgs",
+  "extends": "@unonu",
   "plugins": [
-    "zgsgs"
+    "unonu"
   ]
 }

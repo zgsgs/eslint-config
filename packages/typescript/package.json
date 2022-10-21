@@ -1,6 +1,6 @@
 {
-  "name": "@zgsgs/eslint-config-ts",
-  "version": "0.0.7",
+  "name": "@unonu/eslint-config-ts",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -19,7 +19,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
-    "@zgsgs/eslint-config-basic": "workspace:*"
+    "@unonu/eslint-config-basic": "workspace:*"
   },
   "devDependencies": {
     "eslint": "8.15.0"

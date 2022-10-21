@@ -32,7 +32,7 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
-    'zgsgs',
+    'unonu',
   ],
   settings: {
     'import/resolver': {
@@ -305,9 +305,9 @@ module.exports = {
     'yml/quotes': ['error', { prefer: 'single', avoidEscape: false }],
     'yml/no-empty-document': 'off',
 
-    // zgsgs
-    'zgsgs/if-newline': 'error',
-    'zgsgs/import-dedupe': 'error',
-    // 'zgsgs/prefer-inline-type-import': 'error',
+    // unonu
+    'unonu/if-newline': 'error',
+    'unonu/import-dedupe': 'error',
+    // 'unonu/prefer-inline-type-import': 'error',
   },
 }
